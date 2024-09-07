@@ -1,5 +1,7 @@
 # CameraToTextureRenderPassFeature
 
+![Example Image](Images/Example.png)
+
 ## Overview
 
 `CameraToTextureRenderPassFeature` is a custom `ScriptableRendererFeature` for Unity's Universal Render Pipeline (URP). It allows you to render the output of a camera to a `RenderTexture` and optionally apply a material to the rendered image.
