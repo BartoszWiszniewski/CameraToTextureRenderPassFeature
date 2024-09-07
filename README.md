@@ -26,7 +26,7 @@
    - Set the `cameraType` to filter cameras by type (e.g., Game, SceneView).
    - Choose the `renderPassEvent` to determine when the render pass should be executed.
 
-##Notes
+## Notes
 - Ensure that the RenderTexture is properly configured and created before using it.
 - The feature will automatically resize the RenderTexture to match the camera's resolution if it changes.
 - Use the globalTextureId to access the rendered texture in shaders globally.
